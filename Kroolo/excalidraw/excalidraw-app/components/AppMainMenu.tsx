@@ -1,4 +1,4 @@
-import { eyeIcon } from "@excalidraw/excalidraw/components/icons"; // removed unused: loginIcon, ExcalLogo
+import { eyeIcon } from "@excalidraw/excalidraw/components/icons";
 import { MainMenu } from "@excalidraw/excalidraw/index";
 import React from "react";
 
@@ -7,7 +7,6 @@ import { isDevEnv } from "@excalidraw/common";
 import type { Theme } from "@excalidraw/element/types";
 
 import { LanguageList } from "../app-language/LanguageList";
-// removed unused import: isExcalidrawPlusSignedUser
 
 import { saveDebugState } from "./DebugCanvas";
 
