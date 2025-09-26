@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (DO NOT COMMIT SECRETS)
+.env
+.env.development
+.env.production
+.env.local
+
+# Editor / system files
+.vscode/
+.idea/
+.DS_Store
